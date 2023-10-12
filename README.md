@@ -45,6 +45,3 @@ This project adheres to the MIT License.
 ## Contributors
 
 [List of Contributors]
-
----
-Adding a test line 
