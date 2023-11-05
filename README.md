@@ -36,7 +36,7 @@ Data Science, Machine Learning, Deep Learning, Reinforcement Learning, and Open 
 
 ## Code of Conduct
 
-You can find our Code of Conduct [here](<Link to Code of Conduct>).
+You can find our Code of  [here](<Link to Code of Conduct>).
 
 ## License
 
